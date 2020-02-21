@@ -3,8 +3,8 @@ main:
     url: /posts/
   - title: "ML"
     url: /ML_Linear_Regression.html
-  - title: "TEST"
-    url: /ML_Linear_Regression/
+  - title: "ML_TEST"
+    url: /ML_TEST/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
