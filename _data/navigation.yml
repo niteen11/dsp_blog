@@ -5,6 +5,8 @@ main:
     url: /ML_Linear_Regression.html
   - title: "ML_TEST"
     url: /x_ray_analyzer/
+  - title: "ML_Example"
+    url: /ML_TEST/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
