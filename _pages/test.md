@@ -1,6 +1,6 @@
 ---
 permalink: /TEST/
-title: "test"
+title: "TEST"
 ---
 
 ```python
