@@ -5,8 +5,6 @@ main:
     url: /ML_Example/
   - title: "ML_TEST"
     url: /ML_TEST/
-  - title: "TEST"
-    url: /TEST/    
   - title: "Categories"
     url: /categories/
   - title: "Tags"
