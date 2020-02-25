@@ -1,7 +1,11 @@
 ---
 permalink: /TEST/
 title: "TEST"
+toc: true
+toc_sticky: true
 ---
+
+## Data Acquisition
 
 ```python
 import os
@@ -15,7 +19,7 @@ print(python_version())
 
     3.6.9
     
-
+## Setting up libraries
 
 ```python
 import numpy as np
@@ -26,6 +30,7 @@ import numpy as np
 ar1 = np.arange(12)
 ```
 
+## Data Wrangling
 
 ```python
 ar1
