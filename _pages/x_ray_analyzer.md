@@ -1,3 +1,8 @@
+---
+permalink: /ML_Example/
+title: "ML_Example"
+---
+
 ```python
 from PIL import Image
 from io import BytesIO

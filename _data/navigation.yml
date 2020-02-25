@@ -1,10 +1,10 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "ML"
-    url: /ML_Linear_Regression.html
+  - title: "ML_Example"
+    url: /ML_Example/
   - title: "ML_TEST"
-    url: /test/
+    url: /ML_TEST/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
