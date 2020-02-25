@@ -4,9 +4,7 @@ main:
   - title: "ML"
     url: /ML_Linear_Regression.html
   - title: "ML_TEST"
-    url: /x_ray_analyzer/
-  - title: "ML_Example"
-    url: /ML_TEST/
+    url: /test/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
