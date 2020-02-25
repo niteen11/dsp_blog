@@ -1,5 +1,5 @@
 ---
-permalink: /ML_TESTING/
+permalink: /TEST/
 title: "test"
 ---
 

@@ -4,7 +4,9 @@ main:
   - title: "ML_Example"
     url: /ML_Example/
   - title: "ML_TEST"
-    url: /ML_TEST/
+    url: /ML_TESTING/
+  - title: "TEST"
+    url: /test/    
   - title: "Categories"
     url: /categories/
   - title: "Tags"
